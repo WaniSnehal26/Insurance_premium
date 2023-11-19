@@ -15,10 +15,16 @@ RESULTS: You have to build a solution that should able to predict the premium of
 
 # Dataset overview
 -age
+
 -sex
+
 -bmi(Body Mass Index)
+
 -children
+
 -smoker
+
 -region
+
 -expenses
 
